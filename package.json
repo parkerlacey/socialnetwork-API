@@ -1,0 +1,20 @@
+{
+  "name": "mern-server",
+  "version": "1.0.0",
+  "description": "Unit 18, NoSQL Assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "watch": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
